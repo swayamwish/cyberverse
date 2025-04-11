@@ -71,12 +71,12 @@ export const socials = [
   {
     name: 'linkedin',
     url: '/linkedin.svg',
-    link: 'https://www.linkedin.com/in/sumit-kumar176/'
+    link: 'https://www.linkedin.com/in/sudhanshu-pandey-25568921a/'
   },
   {
     name: 'github',
     url: '/github.svg',
-    link: 'https://github.com/skipper-108/'
+    link: 'https://github.com/swayamwish'
   },
   
 ];
